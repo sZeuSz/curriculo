@@ -1,0 +1,15 @@
+h1,
+h2 {
+  color: dimgray;
+}
+
+h3 {
+  color: steelblue;
+  border-bottom: 2px solid steelblue;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
