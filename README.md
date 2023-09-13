@@ -1,2 +1,2 @@
 # curriculo
-Prática de desenvolvimento de aplicações web
+cúrriculo para práticar conceitos de desenvolvimento de aplicações web.
