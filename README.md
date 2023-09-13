@@ -1,2 +1,2 @@
-# curriculo
-cúrriculo para práticar conceitos de desenvolvimento de aplicações web.
+# curriculo simples
+Uma cúrriculo simples para práticar conceitos de desenvolvimento de aplicações web.
